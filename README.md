@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ## 🌱 I’m currently learning Machine Learning / AI , Willing to explore new technologies.
 
 ## 📫 Let's Connect:
-![My LinkedIN](https://www.linkedin.com/in/reham-eltagoury-496804167/)
-[![My GitHub](https://github.com/rehamessameltagoury](https://github.com/rehamessameltagoury)
-[![Datacamp](https://img.shields.io/npm/v/github-buttons)](https://www.npmjs.com/github-buttons)
+
+[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/rehamessameltagoury) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/reham-eltagoury-496804167/) 
+ [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](rehameltagoury@gmail.com)
