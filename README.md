@@ -1,4 +1,4 @@
-# ✨ Hi there ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif=48x48)
+# ✨ Hi there ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif =25x25)
 <img src='https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif' width='48 height='48'/>
 
 <!--
