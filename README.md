@@ -1,5 +1,5 @@
 # ✨ Hi there ![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gi" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="48" height="48"/>
 
 <!--
 **rehamessameltagoury/rehamessameltagoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
