@@ -25,7 +25,7 @@ I am Reham ElTagoury, Computer and Systems Engineering Graduate Class 2020.
 
 #### 📫 Let's Connect:
 
-[![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/rehamessameltagoury) 
+[![GitHub](https://img.shields.io/badge/MY%20PROFILE-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/rehamessameltagoury) 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/reham-eltagoury-496804167/) 
 [![Kaggle](https://img.shields.io/badge/MY%20PROFILE-Kaggle-blue?style=for-the-badge&logo=github)](https://www.kaggle.com/rehameltagoury) 
  
