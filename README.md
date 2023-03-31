@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 -->
 I am Reham ElTagoury, Computer and Systems Engineering Graduate Class 2020.
 
+#### 🔭 I'm AI and Automation Engineer specialized in RPA
 
-#### 🔭 I’m an AI Gradaute from AI pro Program ITI powered by EPITA (School of Engineering and Computer Science)
+
+#### 🔭 An AI Gradaute from AI pro Program ITI powered by EPITA (School of Engineering and Computer Science)
 
 
-#### 🌱 I’m currently learning Machine Learning / AI , Willing to explore new technologies.
+#### 🌱 Passionate about Machine Learning / MLops
 
 
 #### 📫 Let's Connect:
